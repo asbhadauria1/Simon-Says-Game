@@ -1,0 +1,2 @@
+# Description
+A Simon Says Game where players must click a lit button to match an increasing sequence of lights. The game concludes after one incorrect response, and the score displayed reflects the number of correctly completed rounds.
